@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Rencontre15.Models.VwDetailsSerie>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AnneeDebut)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AnneeFin)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NbActeurs)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NbEpisodesTotal)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NbSaisons)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AnneeDebut)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AnneeFin)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.NbActeurs)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NbEpisodesTotal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NbSaisons)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.SerieId">Details</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

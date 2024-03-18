@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Rencontre15
+build_property.RootNamespace = Rencontre15
+build_property.ProjectDir = C:\Users\2185802\Downloads\Rencontre15\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\2185802\Downloads\Rencontre15
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/2185802/Downloads/Rencontre15/Views/Series/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2185802/Downloads/Rencontre15/Views/Series/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2185802/Downloads/Rencontre15/Views/Series/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2185802/Downloads/Rencontre15/Views/Series/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2185802/Downloads/Rencontre15/Views/Series/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2185802/Downloads/Rencontre15/Views/Series/IndexAvecView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyaWVzXEluZGV4QXZlY1ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2185802/Downloads/Rencontre15/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2185802/Downloads/Rencontre15/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2185802/Downloads/Rencontre15/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
